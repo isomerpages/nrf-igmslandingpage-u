@@ -2,9 +2,9 @@ collections:
   help:
     output: true
     order:
-      - Training Guides.md
-      - General Information on Proposals.md
-      - General Information on Accounts with IGMS.md
       - General Information on IGMS.md
+      - General Information on Accounts with IGMS.md
+      - General Information on Proposals.md
+      - Training Guides.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
