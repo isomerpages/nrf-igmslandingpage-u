@@ -1,7 +1,9 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: IGMS
+description: Welcome to IGMS - the Integrated Grant Management System. The
+  system is designated for researchers and grant managers who are involved in
+  NRF, MOH, MOE and A*STAR grants.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Please note that Singpass will be undergoing scheduled maintenance
