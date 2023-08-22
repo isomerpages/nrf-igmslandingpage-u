@@ -12,7 +12,7 @@ notification: Please note that Singpass will be undergoing scheduled maintenance
 sections:
   - hero:
       title: Integrated Grant Management System
-      background: /images/igmsbanner1.jpg
+      background: /images/igmsbanner2.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
