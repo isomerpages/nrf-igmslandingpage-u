@@ -29,5 +29,5 @@ sections:
       description: The National Research Foundation (NRF), set up on 1 January 2006,
         is a department within the Prime Minister's Office.
       button: Know more
-      url: /faq/
+      url: /AboutUs/
 ---
