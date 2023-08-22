@@ -6,5 +6,5 @@ collections:
       - General Information on Accounts with IGMS.md
       - General Information on Proposals.md
       - Training Guides.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - Sub Items/.keep
+      - Sub Items/subfolder-page.md
