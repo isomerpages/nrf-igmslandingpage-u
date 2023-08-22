@@ -1,4 +1,4 @@
-title: Title
+title: IGMS
 url: https://staging.d2gzpr3ive5jda.amplifyapp.com
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,7 +15,9 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: Welcome to IGMS - the Integrated Grant Management System. The
+  system is designated for researchers and grant managers who are involved in
+  NRF, MOH, MOE and A*STAR grants.
 permalink: none
 baseurl: ""
 exclude:
