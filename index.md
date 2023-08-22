@@ -32,4 +32,20 @@ sections:
         is a department within the Prime Minister's Office.
       button: Know more
       url: /AboutUs/
+  - resources:
+      title: Resources to visit
+      subtitle: Resources
+      button: View More
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/hero-banner.png
+      alt: Image alt text
 ---
