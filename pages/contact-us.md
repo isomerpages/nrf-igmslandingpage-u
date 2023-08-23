@@ -7,7 +7,7 @@ locations:
   - address:
       - 31 Sesame Street
       - Big Bird Building
-      - Singapore 123456
+      - Singapore 138632
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
