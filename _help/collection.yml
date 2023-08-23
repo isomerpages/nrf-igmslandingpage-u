@@ -2,6 +2,7 @@ collections:
   help:
     output: true
     order:
+      - Markdown Syntax Guide.md
       - General Information on IGMS.md
       - General Information on Accounts with IGMS.md
       - General Information on Proposals.md
