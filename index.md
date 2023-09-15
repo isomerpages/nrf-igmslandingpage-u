@@ -25,6 +25,9 @@ sections:
         - title: Latest Updates
           description: IGMS Latest Updates
           url: /privacy/
+        - title: eService
+          description: eService portal
+          url: https://uat.researchgrant.gov.sg/eservices
   - infobar:
       title: National Research Foundation
       subtitle: National Research Foundation
