@@ -10,3 +10,10 @@ links:
     collection: help
   - title: External
     url: https://uat.researchgrant.gov.sg/Pages/index.aspx
+  - title: External
+    url: https://uat.researchgrant.gov.sg/Pages/index.aspx
+    sublinks:
+      - title: Open
+        url: https://uat.researchgrant.gov.sg/Pages/index.aspx
+      - title: Closed
+        url: https://uat.researchgrant.gov.sg/Pages/index.aspx
