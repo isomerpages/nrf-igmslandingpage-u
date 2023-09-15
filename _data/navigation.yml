@@ -10,7 +10,7 @@ links:
     collection: help
   - title: External
     url: https://uat.researchgrant.gov.sg/Pages/index.aspx
-  - title: External
+  - title: eService URLs
     url: https://uat.researchgrant.gov.sg/Pages/index.aspx
     sublinks:
       - title: Open
