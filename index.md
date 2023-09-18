@@ -25,9 +25,6 @@ sections:
         - title: Latest Updates
           description: IGMS Latest Updates
           url: /privacy/
-        - title: Open Calls
-          description: Open Grant Calls
-          url: https://uat.researchgrant.gov.sg/eservices
   - infobar:
       title: National Research Foundation
       subtitle: National Research Foundation
