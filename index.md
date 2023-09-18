@@ -51,4 +51,18 @@ sections:
       button: Button Text
       image: /images/hero-banner.png
       alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/igmsbanner1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/hero-banner.png
+      alt: Image alt text
 ---
