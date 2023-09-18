@@ -4,10 +4,6 @@ links:
     url: /aboutus/
   - title: Resources
     resource_room: true
-  - title: Contact Us
-    url: /contact-us/
-  - title: Help
-    collection: help
   - title: eService URLs
     url: https://uat.researchgrant.gov.sg/Pages/index.aspx
     sublinks:
@@ -15,3 +11,7 @@ links:
         url: https://uat.researchgrant.gov.sg/Pages/index.aspx
       - title: Closed
         url: https://uat.researchgrant.gov.sg/Pages/index.aspx
+  - title: Contact Us
+    url: /contact-us/
+  - title: Help
+    collection: help
