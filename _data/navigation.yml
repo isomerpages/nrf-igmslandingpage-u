@@ -11,6 +11,10 @@ links:
         url: https://uat.researchgrant.gov.sg/Pages/index.aspx
       - title: Closed
         url: https://uat.researchgrant.gov.sg/Pages/index.aspx
+      - title: Upcoming
+        url: /permalink
+      - title: Awarded Projects
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
   - title: Help
