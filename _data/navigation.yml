@@ -4,7 +4,7 @@ links:
     url: /aboutus/
   - title: Resources
     resource_room: true
-  - title: eService URLs
+  - title: Grant Calls
     url: https://uat.researchgrant.gov.sg/Pages/index.aspx
     sublinks:
       - title: Open
