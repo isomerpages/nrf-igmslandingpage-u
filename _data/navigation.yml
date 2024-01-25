@@ -1,0 +1,21 @@
+logo: /images/igms-logo.png
+links:
+  - title: About Us
+    url: /aboutus/
+  - title: Resources
+    resource_room: true
+  - title: Grant Calls
+    url: https://uat.researchgrant.gov.sg/Pages/index.aspx
+    sublinks:
+      - title: Open
+        url: https://uat.researchgrant.gov.sg/Pages/index.aspx
+      - title: Closed
+        url: https://uat.researchgrant.gov.sg/Pages/index.aspx
+      - title: Upcoming
+        url: https://uat.researchgrant.gov.sg/Pages/index.aspx
+      - title: Awarded Projects
+        url: https://uat.researchgrant.gov.sg/Pages/index.aspx
+  - title: Contact Us
+    url: /contact-us/
+  - title: Help
+    collection: help
